@@ -1,2 +1,21 @@
 # vue-test
-vue 的初次尝试
+
+## Project setup
+```
+yarn
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your tests
+```
+yarn test
+```
